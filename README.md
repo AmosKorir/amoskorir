@@ -1,7 +1,7 @@
 ### Hi there 👋 
 I am Korir, an android Engineer, I live with **code** and by the **Architecture!**
 
-My house empty ! I mock everything. :smile:
+My house is empty ! I mock everything. :smile:
 
 <!--
 **AmosKorir/amoskorir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
