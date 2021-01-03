@@ -2,6 +2,7 @@
 I am Korir, an android Engineer, I live with **code** and by the **Architecture!**
 
 My house is empty ! I **mock** everything. :smile:
+![](https://komarev.com/ghpvc/?username=amoskorir&color=green)
 
 <!--
 **AmosKorir/amoskorir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
