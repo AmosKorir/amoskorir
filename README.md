@@ -1,7 +1,13 @@
 ### Hi there 👋 
-I am Korir, an android Engineer, I live with **code** and by the **Architecture!**
+I am Korir Amos, an Android and Test Automation Engineer
 
-My house is empty ! I **mock** everything. :smile:
+Open Source enthusiast, always happy to fix that "one"  bug .
+
+### Ask me anything about.
+1. Android
+2. Test automation
+3. Node js
+
 ![](https://komarev.com/ghpvc/?username=amoskorir&color=green)
 
 <!--
