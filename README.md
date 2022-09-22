@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am Korir Amos, an Android and Test Automation Engineer
+I am Korir Amos, an Android Engineer / software Engineer
 
 Open Source enthusiast, always happy to fix that "one"  bug .
 
